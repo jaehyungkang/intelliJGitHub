@@ -7,3 +7,4 @@ public class OperationEx3 {
         System.out.println(result);
     }
 }
+
